@@ -1,4 +1,5 @@
 
+[![Build Status](https://dev.azure.com/sapnamanokar/Space%20game%20Web/_apis/build/status/msapna.mslearn-tailspin-spacegame-web?branchName=azure-pipelines)](https://dev.azure.com/sapnamanokar/Space%20game%20Web/_build/latest?definitionId=2&branchName=azure-pipelines)
 # Contributing
 
 This project welcomes contributions and suggestions.  Most contributions require you to agree to a
